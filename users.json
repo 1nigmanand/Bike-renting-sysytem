@@ -1,0 +1,30 @@
+{
+      "nigm@gmail.com": {
+            "Name": "nigm",
+            "Number": 1234567,
+            "Password": "1",
+            "Time": 1664509507617,
+            "bike name": [
+                  "kawasaki W175",
+                  "Royal Enfield Hunter",
+                  "Royal Enfield Hunter",
+                  "Royal Enfield Hunter",
+                  "Royal Enfield classic 350"
+            ],
+            "cost": 6200
+      },
+      "ewrqiu@gmail.com": {
+            "Name": "fuidgyr",
+            "Number": 123456,
+            "Password": "12345",
+            "Time": 1664596410750,
+            "bike name": [
+                  "kawasaki W175",
+                  "Royal Enfield Hunter",
+                  "Royal Enfield classic 350",
+                  "TVS Ronin",
+                  "Royal Enfield Meteor 350"
+            ],
+            "cost": 10501
+      }
+}

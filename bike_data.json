@@ -1,0 +1,112 @@
+{
+      "cruiser": {
+            "kawasaki W175": [
+                  1250,
+                  4
+            ],
+            "Royal Enfield Hunter": [
+                  1200,
+                  7
+            ],
+            "Royal Enfield classic 350": [
+                  1350,
+                  8
+            ],
+            "TVS Ronin": [
+                  3245,
+                  6
+            ],
+            "Royal Enfield Meteor 350": [
+                  3456,
+                  6
+            ],
+            "Keeway V302C": [
+                  3456,
+                  5
+            ]
+      },
+      "touring": {
+            "Kawasaki Versys 650": [
+                  7000,
+                  12
+            ],
+            "Honda CB500X": [
+                  2300,
+                  12
+            ],
+            "Benelli TRK 502": [
+                  1200,
+                  12
+            ],
+            "KTM 390 Adventure": [
+                  6250,
+                  13
+            ],
+            "Royal Enfield Interceptor 650": [
+                  5250,
+                  3
+            ],
+            "Bajaj Dominar 400": [
+                  4750,
+                  12
+            ]
+      },
+      "sports": {
+            "Suziki Gixxer SF 150": [
+                  2500,
+                  11
+            ],
+            "Bajaj Pulsar RS 200": [
+                  5000,
+                  10
+            ],
+            "Yamaha R15 V4": [
+                  4500,
+                  9
+            ],
+            "KTM RC 125": [
+                  2345,
+                  11
+            ],
+            "Suziki Gixxer SF 250": [
+                  4567,
+                  10
+            ]
+      },
+      "off-roads": {
+            "Royal Enfield Himalayan": [
+                  3452,
+                  14
+            ],
+            "BMW G 310 GS": [
+                  5679,
+                  13
+            ],
+            "BMW R 1250 GS Adventure": [
+                  3456,
+                  12
+            ],
+            "KTM 390 Adventure": [
+                  2345,
+                  12
+            ],
+            "Suziki Gixxer SF 250": [
+                  4567,
+                  10
+            ],
+            "Honda CRF1 100L Africa Twin": [
+                  5678,
+                  16
+            ],
+            "KTM 250 Adventure": [
+                  5677,
+                  13
+            ]
+      },
+      "limited-edition": {
+            "Neiman Marcus Limited Edition Fighter": [
+                  2510000,
+                  12
+            ]
+      }
+}
